@@ -19,3 +19,45 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.principal {
+    background-image: url("img/Background.png");
+}
+
+]background-image url("img/background.png");
+background-repeat: no-repeat;
+background-size:contain;
+
+}
+
+.{container
+    height:100vh;
+    display: grid;
+    grid-template-columns;50%50%;
+}
+
+.container__botao{
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+
+}
+
+padding: 1 em;
+color: var(--branco-principal);
+display:block;
+text-decoration:none;
+
+}
+
+botao_secundario{
+    background-color:transparet;
+    boder:2px solid vat(--branco-principal)
+}
+container_aviso{
+    front-size 12px
+    color: var(--cinza-secundario);
+}
+.container_titulo{
+    font-size: 28px;
+    font-weight:700;
+}
